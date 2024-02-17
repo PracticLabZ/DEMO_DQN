@@ -1,2 +1,2 @@
 import gym
-env = gym.make("MsPacman-v4")
+env = gym.make("MsPacman-v0")

@@ -1,5 +1,6 @@
 
-# use chainer 
+# use chainer
+
     https://chainer.org/
     https://github.com/chainer/chainer
 
@@ -47,4 +48,3 @@ sudo apt install zlib1g-dev
 sudo pip3 install gym[atari]
 
 ```
-
